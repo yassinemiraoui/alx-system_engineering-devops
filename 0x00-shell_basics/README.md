@@ -1,1 +1,1 @@
-shell baics
+shell basics
